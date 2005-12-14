@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Math-Intersection-StraightLine.t
+lib/Math/Intersection/StraightLine.pm
