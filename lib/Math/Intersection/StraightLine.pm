@@ -3,8 +3,7 @@ package Math::Intersection::StraightLine;
 use 5.006001;
 use strict;
 use warnings;
-use Data::Dumper;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new{
   my ($class) = @_;
