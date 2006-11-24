@@ -3,7 +3,7 @@ package Math::Intersection::StraightLine;
 use 5.006001;
 use strict;
 use warnings;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub new{
   my ($class) = @_;
@@ -296,6 +296,12 @@ returns
           '-0.583333333333333', # this is imprecise
           '-0.25'
           ];
+
+=head1 OTHER METHODS
+
+=head2 new
+
+returns a new object of C<Math::Intersection::StraightLine>
 
 =head1 AUTHOR
 
