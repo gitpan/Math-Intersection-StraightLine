@@ -12,3 +12,6 @@ Revision history for Perl extension Math::Intersection::StraightLine.
       + test: 98_boilerplate.t
       + test: 99_pod.t
       + test: 99_pod_coverage.t
+
+0.04  Sun Nov 26 12:40:33 2006
+      - bugfix: manifest.t
